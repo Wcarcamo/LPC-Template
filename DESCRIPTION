@@ -1,0 +1,10 @@
+Package: LPC
+Type: Package
+Title: Template for LPC Reporting
+Version: 0.1.0
+Author: Will
+Maintainer: The package maintainer <will@lpc-associates.com>
+Description: LPC Template
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true

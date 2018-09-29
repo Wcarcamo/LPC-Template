@@ -1,0 +1,25 @@
+---
+title: "Client Report"
+output:
+  LPC::LPC:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, results = "markup", message = FALSE, warning = FALSE)
+```
+
+```{r}
+#Loading Packages
+library(tidyverse)
+library(jmv)
+library(summarytools)
+library(readxl)
+```
+
+```{r}
+#Load Data
+
+```
+
+
