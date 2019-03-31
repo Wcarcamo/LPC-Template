@@ -15,3 +15,4 @@ devtools::install_github("Wcarcamo/LPC-Template")
 
 This will install the package `LPC`.
 A line I wrote on my local computer
+just works
