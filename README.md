@@ -1,6 +1,6 @@
 LPC Template
 ======================================================
-This repository provides a R Markdown template for LPC Consulting Associates, where I currently work. 
+This repository provides a R Markdown template for LPC Consulting Associates, where I previously work. 
 
 This template was made possible with the help of Michael Harper's template examples. If you would like to learn more, see his [templates](https://github.com/dr-harper/example-rmd-templates).
 
